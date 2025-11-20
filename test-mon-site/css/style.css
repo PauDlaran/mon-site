@@ -1,6 +1,0 @@
-body{font-family:system-ui,Arial,sans-serif;max-width:900px;margin:0 auto;padding:1rem;color:#222}
-.site-header{display:flex;align-items:center;gap:0.75rem}
-.logo{height:48px}
-.btn{display:inline-block;padding:0.5rem 1rem;background:#111;color:#fff;border-radius:6px;text-decoration:none}
-.pdf-list{list-style:none;padding:0}
-.pdf-list li{margin:0.75rem 0}
